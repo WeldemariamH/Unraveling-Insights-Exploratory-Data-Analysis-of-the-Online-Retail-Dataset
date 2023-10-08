@@ -1,7 +1,7 @@
 ## Exploratory Data Analysis (EDA) of UK-based and registered non-store online retails transnational data set of transactions occurring between 01/12/2010 and 09/12/2011
 
 
-# Online Retail Data Analysis Project
+
 
 This project involves the analysis of the famous transnational dataset containing all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
 
